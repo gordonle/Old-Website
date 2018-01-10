@@ -132,6 +132,11 @@ p:last-of-type {
 	color: #999999;
 }
 
+.button-email {
+	text-decoration: none;
+	color: #f2f2f2;
+}
+
 /* header
 =======================================*/
 
