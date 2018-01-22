@@ -106,7 +106,7 @@ p:last-of-type {
 .button-accent:hover,
 .button-accent:focus {
 	background: #000000;
-	color: #404040;
+	color: #ffffff;
 }
 
 .button-accent-end {
@@ -134,6 +134,11 @@ p:last-of-type {
 
 .button-email {
 	text-decoration: none;
+	color: #f2f2f2;
+}
+
+.button-disc:hover,
+.button-disc:focus {
 	color: #f2f2f2;
 }
 
