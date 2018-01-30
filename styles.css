@@ -167,13 +167,26 @@ nav a {
 	text-transform: uppercase;
 	font-size: 0.9rem;
 	padding: .6em;
+}
+
+.nav1 {
+	color: #404040;
+}
+
+.nav1:hover,
+.nav1:focus {
 	color: #FFF;
 }
 
-nav a:hover,
-nav a:focus {
+.nav2 {
+	color: #FFF;
+}
+
+.nav2:hover,
+.nav2:focus {
 	color: #404040;
 }
+
 
 @media (max-width:60rem) {
 	header {
